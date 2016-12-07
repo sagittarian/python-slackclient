@@ -24,7 +24,7 @@ of Python to get your project up and running as quickly as possible.
 Requirements and Installation
 ******************************
 
-Slack Developer Kit for Python currently works with Python 2.7 (watch for Python 3 support in the future), and requires `PyPI` to install
+Slack Developer Kit for Python currently works with Python 2.7 and Python 3 (3.5 and maybe earlier), and requires `PyPI` to install
 dependencies. Of course, since you probably installed this module with `PyPI`, this is not a problem.
 
 We recommend using `PyPI <https://pypi.python.org/pypi>`_ to install Slack Developer Kit for Python
